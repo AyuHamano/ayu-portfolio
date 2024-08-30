@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ayu-portfolio/static/css/main.8c56267a.css",
+    "main.js": "/ayu-portfolio/static/js/main.ce62a278.js",
+    "static/js/453.934349f4.chunk.js": "/ayu-portfolio/static/js/453.934349f4.chunk.js",
+    "index.html": "/ayu-portfolio/index.html",
+    "main.8c56267a.css.map": "/ayu-portfolio/static/css/main.8c56267a.css.map",
+    "main.ce62a278.js.map": "/ayu-portfolio/static/js/main.ce62a278.js.map",
+    "453.934349f4.chunk.js.map": "/ayu-portfolio/static/js/453.934349f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c56267a.css",
+    "static/js/main.ce62a278.js"
+  ]
+}
